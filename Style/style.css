@@ -150,6 +150,10 @@ p, li{
     padding:.5%;
 }
 
+.responsive-screen{
+    width: 100%;
+}
+
 .info-content{
     display: flex;
     flex-direction: row;

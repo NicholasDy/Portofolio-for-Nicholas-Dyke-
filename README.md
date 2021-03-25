@@ -27,3 +27,4 @@ Link to webstie;
 https://nicholasdy.github.io/Portofolio-for-Nicholas-Dyke-/
 
 Credit- To the Columbia bootcamp team. Editor Nick Dyke 
+License- MIT license
